@@ -22,6 +22,6 @@ All of them are could be connected with a WiFi connection.
 ## 3D printings
 However the only tactical helmet is not enough and I have to build mecanical interfaces
 for supports : **frontal adaptator NVG** for the camera, **lateral interface** for the command and 
-a **behind interface** for supply interface guaranteeing the safety in all circumstances.
+a **behind interface** for suppply guaranteeing the safety in all circumstances.
 
 
