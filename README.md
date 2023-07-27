@@ -12,7 +12,7 @@ On this project, two tiny electonics will be engaged (200mA):
   - a Raspberry PI0W with a camera module
   - an ESP32 Cam, powerless
 
-All of them are 
+All of them are could be connected with a WiFi connection. 
 
 However the only tactical helmet is not enough and I have to build mecanical interfaces
 for supports : frontal adaptator NVG for the camera, lateral interface for the command and 
